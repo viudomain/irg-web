@@ -1,1 +1,1 @@
-# HyperNeRF Website
+# IRG SFDA Website
